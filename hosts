@@ -1,3 +1,5 @@
+0.0.0.0 1phads.com
+0.0.0.0 5min.com
 0.0.0.0 acexedge.com
 0.0.0.0 adbrau.com
 0.0.0.0 addthis.com
@@ -34,25 +36,39 @@
 0.0.0.0 ligatus.com
 0.0.0.0 looble.net
 0.0.0.0 mackeeper.com
+0.0.0.0 mericasads.com
 0.0.0.0 navdmp.com
 0.0.0.0 ninjapd.com
 0.0.0.0 oppuz.com
 0.0.0.0 pkthop.com
-0.0.0.0 plus.ultimate-guitar.com
-0.0.0.0 profile.ultimate-guitar.com
 0.0.0.0 pstatic.org
 0.0.0.0 pxltgr.com
+0.0.0.0 revsci.net
 0.0.0.0 rtbpop.com
 0.0.0.0 sharethrough.com
 0.0.0.0 speandorf.net
 0.0.0.0 spider.ad
 0.0.0.0 tags.tiqcdn.com
-0.0.0.0 track.ultimate-guitar.com
-0.0.0.0 tracking.musixmatch.com
+0.0.0.0 tagsrvcs.com
+0.0.0.0 trklnks.com
+0.0.0.0 trrsf.com.br
 0.0.0.0 tworismo.com
 0.0.0.0 ulozto.sk
 0.0.0.0 urlcash.com
+0.0.0.0 vcmedia.vn
 0.0.0.0 vmweb.net
+0.0.0.0 www.mericasads.com
+0.0.0.0 zqtk.net
+
+0.0.0.0 curse.com
+0.0.0.0 cursecdn.com
+
+# Trackers
+
+0.0.0.0 plus.ultimate-guitar.com
+0.0.0.0 profile.ultimate-guitar.com
+0.0.0.0 track.ultimate-guitar.com
+0.0.0.0 tracking.musixmatch.com
 
 # Brazilian websites
 
@@ -94,3 +110,199 @@
 0.0.0.0 www.freebooksget.com
 0.0.0.0 www.friendlyduck.com
 0.0.0.0 www.providefreebookedition.com
+
+# Chatbots and Annoyances
+
+0.0.0.0 art19.com
+0.0.0.0 disqus.com
+0.0.0.0 disqus.net
+0.0.0.0 disquscdn.com
+0.0.0.0 huggy.io
+0.0.0.0 nama.ai
+0.0.0.0 pzw.io
+0.0.0.0 zotabox.com
+0.0.0.0 plataformasocial.com.br
+
+# Unverified
+
+# 0.0.0.0 addsearch.com
+# 0.0.0.0 adjust.com
+# 0.0.0.0 adobedtm.com
+# 0.0.0.0 answerdash.com
+# 0.0.0.0 antibodyresource.com
+# 0.0.0.0 applebarq.com
+# 0.0.0.0 arsdev.net
+# 0.0.0.0 autofixinfo.com
+# 0.0.0.0 backinstock.org
+# 0.0.0.0 beeketing.com
+# 0.0.0.0 biocatch.com
+# 0.0.0.0 bit.ly
+# 0.0.0.0 blogflux.com
+# 0.0.0.0 bluecore.com
+# 0.0.0.0 bop.fm
+# 0.0.0.0 brightcove.com
+# 0.0.0.0 brightcove.net
+# 0.0.0.0 bunchball.net
+# 0.0.0.0 buscape.com
+# 0.0.0.0 buscape.com.br
+# 0.0.0.0 callpage.io
+# 0.0.0.0 caspion.com
+# 0.0.0.0 cdn-careers.sstatic.net
+# 0.0.0.0 clicktale.com
+# 0.0.0.0 clicktale.net
+# 0.0.0.0 comodo.com
+# 0.0.0.0 condenastdigital.com
+# 0.0.0.0 convertflow.com
+# 0.0.0.0 creativecommons.org
+# 0.0.0.0 crisp.chat
+# 0.0.0.0 crisp.im
+# 0.0.0.0 crossref.org
+# 0.0.0.0 datanyze.com
+# 0.0.0.0 datatables.net
+# 0.0.0.0 diffuser.fm
+# 0.0.0.0 digitalgov.gov
+# 0.0.0.0 editmysite.com
+# 0.0.0.0 embed.ly
+# 0.0.0.0 embedly.com
+# 0.0.0.0 feedburner.com
+# 0.0.0.0 filepicker.io
+# 0.0.0.0 flattr.com
+# 0.0.0.0 flattr.net
+# 0.0.0.0 footballfanatics.com
+# 0.0.0.0 foursixty.com
+# 0.0.0.0 foxsports.com
+# 0.0.0.0 fyre.co
+# 0.0.0.0 gethypervisual.com
+# 0.0.0.0 getkya.com
+# 0.0.0.0 getmoreproof.com
+# 0.0.0.0 getprivate.net
+# 0.0.0.0 getsentry.com
+# 0.0.0.0 gigya.com
+# 0.0.0.0 gmgp.org
+# 0.0.0.0 goodgamestudios.com
+# 0.0.0.0 goroost.com
+# 0.0.0.0 gourl.io
+# 0.0.0.0 gravatar.com
+# 0.0.0.0 guardianapps.co.uk
+# 0.0.0.0 hammerjs.github.io
+# 0.0.0.0 happyfoxchat.com
+# 0.0.0.0 hextom.com
+# 0.0.0.0 hs-scripts.com
+# 0.0.0.0 hscta.net
+# 0.0.0.0 hsforms.net
+# 0.0.0.0 hubspot.com
+# 0.0.0.0 hull.io
+# 0.0.0.0 hullapp.io
+# 0.0.0.0 hurrifyme.com
+# 0.0.0.0 indiedb.com
+# 0.0.0.0 intensedebate.com
+# 0.0.0.0 intercom.io
+# 0.0.0.0 ivcbrasil.org.br
+# 0.0.0.0 jango.com
+# 0.0.0.0 jangonetwork.com
+# 0.0.0.0 jwpsrv.com
+# 0.0.0.0 kaltura.com
+# 0.0.0.0 kickstarter.com
+# 0.0.0.0 kitcode.net
+# 0.0.0.0 komentary.aol.com
+# 0.0.0.0 leanpub.com
+# 0.0.0.0 licensebuttons.net
+# 0.0.0.0 linkedin.com
+# 0.0.0.0 list-manage.com
+# 0.0.0.0 livechatinc.com
+# 0.0.0.0 livefyre.com
+# 0.0.0.0 livraria.folha.com.br
+# 0.0.0.0 loox.io
+# 0.0.0.0 madisonlogic.com
+# 0.0.0.0 mailchimp.com
+# 0.0.0.0 mailmunch.co
+# 0.0.0.0 maplink.com.br
+# 0.0.0.0 markerly.com
+# 0.0.0.0 marketo.net
+# 0.0.0.0 massrelevance.com
+# 0.0.0.0 maxymiser.net
+# 0.0.0.0 mediakit.com.br
+# 0.0.0.0 mercadoconfianca.com.br
+# 0.0.0.0 mobilenations.com
+# 0.0.0.0 moon-ray.com
+# 0.0.0.0 mparticle.com
+# 0.0.0.0 my.slate.com
+# 0.0.0.0 myip.ms
+# 0.0.0.0 netotiate.com
+# 0.0.0.0 newsvine.com
+# 0.0.0.0 nile.works
+# 0.0.0.0 nosto.com
+# 0.0.0.0 okasconcepts.com
+# 0.0.0.0 olark.com
+# 0.0.0.0 onename.com
+# 0.0.0.0 ontraport.com
+# 0.0.0.0 ophan.co.uk
+# 0.0.0.0 optin.to
+# 0.0.0.0 optnmnstr.com
+# 0.0.0.0 parleys.com
+# 0.0.0.0 petitionermaster.appspot.com
+# 0.0.0.0 pinterest.com
+# 0.0.0.0 plus.google.com
+# 0.0.0.0 pubnub.com
+# 0.0.0.0 pushcrew.com
+# 0.0.0.0 pushnews.eu
+# 0.0.0.0 rd.io
+# 0.0.0.0 rdio.com
+# 0.0.0.0 rdstation.com.br
+# 0.0.0.0 readspeaker.com
+# 0.0.0.0 realtime.co
+# 0.0.0.0 resultspage.com
+# 0.0.0.0 revtrax.com
+# 0.0.0.0 roost.me
+# 0.0.0.0 rpxnow.com
+# 0.0.0.0 scmplayer.net
+# 0.0.0.0 scroll.com
+# 0.0.0.0 segment.com
+# 0.0.0.0 segment.io
+# 0.0.0.0 sharethis.com
+# 0.0.0.0 shopgate.com
+# 0.0.0.0 shopmania.com
+# 0.0.0.0 shopperapproved.com
+# 0.0.0.0 signifyd.com
+# 0.0.0.0 siteblindado.com
+# 0.0.0.0 sloyalty.com
+# 0.0.0.0 slpht.com
+# 0.0.0.0 slpht.net
+# 0.0.0.0 snapapp.com
+# 0.0.0.0 socialphotosapp.com
+# 0.0.0.0 spot.im
+# 0.0.0.0 spotify.com
+# 0.0.0.0 stackcommerce.com
+# 0.0.0.0 stacksocial.com
+# 0.0.0.0 stickyaddtocartbar.azurewebsites.net
+# 0.0.0.0 talkable.com
+# 0.0.0.0 thedailymeal.com
+# 0.0.0.0 theplatform.com
+# 0.0.0.0 thunderclap.it
+# 0.0.0.0 tidio.co
+# 0.0.0.0 timeinc.net
+# 0.0.0.0 tiqcdn.com
+# 0.0.0.0 tolvnow.com
+# 0.0.0.0 tonefuse.com
+# 0.0.0.0 torchbrowser.com
+# 0.0.0.0 translate.google.com
+# 0.0.0.0 translate.googleapis.com
+# 0.0.0.0 trendmd.s3.amazonaws.com
+# 0.0.0.0 truste.com
+# 0.0.0.0 tryshoelace.com
+# 0.0.0.0 twitter.com
+# 0.0.0.0 typekit.net
+# 0.0.0.0 ultimedia.com
+# 0.0.0.0 usefomo.com
+# 0.0.0.0 usemessages.com
+# 0.0.0.0 viafoura.com
+# 0.0.0.0 viafoura.net
+# 0.0.0.0 vidible.tv
+# 0.0.0.0 vrum.com.br
+# 0.0.0.0 w.org
+# 0.0.0.0 websking.com
+# 0.0.0.0 weebly.com
+# 0.0.0.0 wpdigital.net
+# 0.0.0.0 yac.mx
+# 0.0.0.0 yardbarker.com
+# 0.0.0.0 zeobit.com
