@@ -15,33 +15,22 @@
 0.0.0.0 adzerk.net
 0.0.0.0 all-yummy.com
 0.0.0.0 amazon-adsystem.com
-0.0.0.0 analytics.mercadolivre.com.br
-0.0.0.0 assinecarta.com.br
-0.0.0.0 assineglobo.com.br
 0.0.0.0 awuuf.com
 0.0.0.0 bat5.com
 0.0.0.0 baypops.com
 0.0.0.0 bitlordapp.com
 0.0.0.0 byvue.com
 0.0.0.0 clb1.com
-0.0.0.0 clicklogger.rm.uol.com.br
-0.0.0.0 cocoon.globo.com
-0.0.0.0 comentarios.globo.com
-0.0.0.0 comentarios.uol.com.br
 0.0.0.0 cya2.net
-0.0.0.0 dejavu.mercadolivre.com.br
-0.0.0.0 dejavu.mlapps.com
+0.0.0.0 dlp.imgsrc.ru
 0.0.0.0 dna.uol.com.br
 0.0.0.0 doubleclick.net
 0.0.0.0 durokuro.com
 0.0.0.0 dynad.net
 0.0.0.0 exoclick.com
 0.0.0.0 exponential.com
-0.0.0.0 geoip.home.uol.com
-0.0.0.0 geoip.home.uol.com.br
-0.0.0.0 horizon.globo.com
-0.0.0.0 interatividade.globo.com
 0.0.0.0 jump-time.net
+0.0.0.0 ladsdown.com
 0.0.0.0 ligatus.com
 0.0.0.0 looble.net
 0.0.0.0 mackeeper.com
@@ -53,22 +42,38 @@
 0.0.0.0 profile.ultimate-guitar.com
 0.0.0.0 pstatic.org
 0.0.0.0 pxltgr.com
-0.0.0.0 recomendacao.globo.com
 0.0.0.0 rtbpop.com
 0.0.0.0 sharethrough.com
 0.0.0.0 speandorf.net
 0.0.0.0 spider.ad
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 track.ultimate-guitar.com
-0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 tworismo.com
 0.0.0.0 ulozto.sk
 0.0.0.0 urlcash.com
+0.0.0.0 vmweb.net
+
+# Brazilian websites
+
+0.0.0.0 analytics.mercadolivre.com.br
+0.0.0.0 assinecarta.com.br
+0.0.0.0 assineglobo.com.br
+0.0.0.0 clicklogger.rm.uol.com.br
+0.0.0.0 cocoon.globo.com
+0.0.0.0 comentarios.globo.com
+0.0.0.0 comentarios.uol.com.br
+0.0.0.0 dejavu.mercadolivre.com.br
+0.0.0.0 dejavu.mlapps.com
+0.0.0.0 geoip.home.uol.com
+0.0.0.0 geoip.home.uol.com.br
+0.0.0.0 horizon.globo.com
+0.0.0.0 interatividade.globo.com
+0.0.0.0 recomendacao.globo.com
+0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 vitrines.globo.com
 0.0.0.0 vitrines.in
 0.0.0.0 vitrinesglobo.com.br
-0.0.0.0 vmweb.net
 
 # Fake Book Downloads
 
