@@ -64,7 +64,10 @@
 0.0.0.0 www.mericasads.com
 0.0.0.0 zqtk.net
 0.0.0.0 prebid.digitru.st
-0.0.0.0 cmp.dmgmediaprivacy.co.uk
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.br
 
 # Trackers
 
@@ -74,6 +77,10 @@
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 services.fandom.com
+0.0.0.0 cmp.dmgmediaprivacy.co.uk
+0.0.0.0 static.quantcast.mgr.consensu.org
+0.0.0.0 sourcepoint.mgr.consensu.org
+0.0.0.0 api.polarbyte.com
 
 # Brazilian websites
 
@@ -495,6 +502,15 @@
 0.0.0.0 wus-wsapi.cloudapp.net
 0.0.0.0 www.msedge.net
 0.0.0.0 www.msftncsi.com
+
+# Phone-home
+
+0.0.0.0 vox1b.nuedge.net
+0.0.0.0 vox2b.nuedge.net
+0.0.0.0 nuedge.net
+0.0.0.0 www.nuedge.net
+0.0.0.0 soniccharge.com
+0.0.0.0 www.soniccharge.com
 
 # Chatbots and Annoyances
 
