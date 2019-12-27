@@ -125,8 +125,9 @@
 0.0.0.0 www.freebooksget.com
 0.0.0.0 www.friendlyduck.com
 0.0.0.0 www.providefreebookedition.com
-0.0.0.0 mp3va.com
-0.0.0.0 www.mp3va.com
+0.0.0.0 mp3va.com www.mp3va.com
+0.0.0.0 hdtracks.de www.hdtracks.de hdtracks.com www.hdtracks.com
+0.0.0.0 hdmusic.me www.hdmusic.me
 
 # Telemetry
 
