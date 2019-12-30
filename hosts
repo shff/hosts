@@ -134,8 +134,9 @@
 0.0.0.0 hdmusic.me
 0.0.0.0 hdtracks.com
 0.0.0.0 hdtracks.de
-0.0.0.0 mp3va.com www.mp3va.com
+0.0.0.0 mp3va.com
 0.0.0.0 providefreebookedition.com
+0.0.0.0 readdownloadebook.com
 0.0.0.0 www.downloadpdfs.net
 0.0.0.0 www.e-bookdownload.net
 0.0.0.0 www.ebooks-books.com
@@ -144,7 +145,9 @@
 0.0.0.0 www.hdmusic.me
 0.0.0.0 www.hdtracks.com
 0.0.0.0 www.hdtracks.de
+0.0.0.0 www.mp3va.com
 0.0.0.0 www.providefreebookedition.com
+0.0.0.0 www.readdownloadebook.com
 
 # Telemetry
 
