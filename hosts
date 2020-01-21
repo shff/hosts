@@ -74,14 +74,21 @@
 0.0.0.0 api.polarbyte.com
 0.0.0.0 brightcove.com
 0.0.0.0 brightcove.net
+0.0.0.0 cdn.brandmetrics.com
+0.0.0.0 cdn.roiq.ranker.com
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
+0.0.0.0 collector.brandmetrics.com
+0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
 0.0.0.0 flattr.com
 0.0.0.0 flattr.net
+0.0.0.0 interactive.guim.co.uk
 0.0.0.0 ipfind.co
+0.0.0.0 phar.gu-web.net
 0.0.0.0 plus.ultimate-guitar.com
 0.0.0.0 profile.ultimate-guitar.com
 0.0.0.0 quantcast.mgr.consensu.org
+0.0.0.0 renderer.apester.com
 0.0.0.0 services.fandom.com
 0.0.0.0 smartlock.google.com
 0.0.0.0 sourcepoint.mgr.consensu.org
@@ -93,6 +100,7 @@
 0.0.0.0 www.fastly-insights.com
 0.0.0.0 www.flattr.com
 0.0.0.0 www.flattr.net
+0.0.0.0 www.lightboxcdn.com
 
 # Brazilian websites
 
