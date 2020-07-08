@@ -197,26 +197,42 @@
 0.0.0.0 www.flattr.net
 0.0.0.0 www.lightboxcdn.com
 
-# Brazilian websites
+# Brazilian Ads
 
-0.0.0.0 analytics.mercadolivre.com.br
 0.0.0.0 assinecarta.com.br
 0.0.0.0 assineglobo.com.br
-0.0.0.0 clicklogger.rm.uol.com.br
 0.0.0.0 cocoon.globo.com
 0.0.0.0 comentarios.globo.com
 0.0.0.0 comentarios.uol.com.br
 0.0.0.0 dejavu.mercadolivre.com.br
 0.0.0.0 dejavu.mlapps.com
-0.0.0.0 geoip.home.uol.com
-0.0.0.0 geoip.home.uol.com.br
 0.0.0.0 horizon.globo.com
 0.0.0.0 interatividade.globo.com
-0.0.0.0 recomendacao.globo.com
-0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 vitrines.globo.com
 0.0.0.0 vitrines.in
 0.0.0.0 vitrinesglobo.com.br
+
+# Brazilian Trackers
+
+0.0.0.0 analytics.mercadolivre.com.br
+0.0.0.0 clicklogger.rm.uol.com.br
+0.0.0.0 geoip.home.uol.com
+0.0.0.0 geoip.home.uol.com.br
+0.0.0.0 recomendacao.globo.com
+0.0.0.0 tracker.bt.uol.com.br
+0.0.0.0 tag.hariken.co
+0.0.0.0 smonitor.com.br
+0.0.0.0 www.dataunion.com.br
+0.0.0.0 v2.denakop.com
+
+# Brazilian 3rd-party scripts
+
+0.0.0.0 cofry.com.br
+
+# GDPR Stuff
+
+0.0.0.0 onesignal.com
+0.0.0.0 www.onesignal.com
 
 # Fake Book/Music Downloads
 
