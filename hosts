@@ -2,28 +2,17 @@
 
 0.0.0.0 api.limbik.com
 0.0.0.0 api.polarbyte.com
-0.0.0.0 brightcove.com
-0.0.0.0 brightcove.net
-0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 cdn.roiq.ranker.com
-0.0.0.0 collector.brandmetrics.com
-0.0.0.0 confiant-integrations.global.ssl.fastly.net
-0.0.0.0 d1yu67rmchodpo.cloudfront.net
 0.0.0.0 flattr.com
 0.0.0.0 flattr.net
-0.0.0.0 interactive.guim.co.uk
 0.0.0.0 ipfind.co
 0.0.0.0 plus.ultimate-guitar.com
 0.0.0.0 profile.ultimate-guitar.com
 0.0.0.0 profusesupport.com
 0.0.0.0 services.fandom.com
 0.0.0.0 soggysponge.com
-0.0.0.0 track.ultimate-guitar.com
-0.0.0.0 tracking.musixmatch.com
 0.0.0.0 www.brightcove.com
-0.0.0.0 www.brightcove.net
 0.0.0.0 www.flattr.com
-0.0.0.0 www.flattr.net
 0.0.0.0 www.ipify.org
 0.0.0.0 www.lightboxcdn.com
 0.0.0.0 s.hdnux.com
@@ -38,14 +27,11 @@
 0.0.0.0 sonar.semantiqo.com
 0.0.0.0 w.uptolike.com
 0.0.0.0 images.dmca.com
-0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 static.nextpathnet.com
 0.0.0.0 soapps.net
 0.0.0.0 rusticprice.com
-0.0.0.0 pub.searchiq.co
 0.0.0.0 live.soapps.net
 0.0.0.0 spottednoise.com
-0.0.0.0 api.searchiq.co
 
 # Brazilian Ads
 
@@ -55,24 +41,19 @@
 0.0.0.0 assineglobo.com.br
 0.0.0.0 cocoon.globo.com
 0.0.0.0 comentarios.globo.com
-0.0.0.0 comentarios.uol.com.br
 0.0.0.0 dejavu.mercadolivre.com.br
 0.0.0.0 dejavu.mlapps.com
-0.0.0.0 horizon.globo.com
 0.0.0.0 interatividade.globo.com
 0.0.0.0 paywall.folha.uol.com.br
-0.0.0.0 vitrines.globo.com
 0.0.0.0 vitrines.in
 0.0.0.0 vitrinesglobo.com.br
 
 # Brazilian Trackers
 
 0.0.0.0 analysis.infoglobo.com.br
-0.0.0.0 analytics.mercadolivre.com.br
 0.0.0.0 clicklogger.rm.uol.com.br
 0.0.0.0 cofry.com.br
 0.0.0.0 geoip.home.uol.com
-0.0.0.0 geoip.home.uol.com.br
 0.0.0.0 recomendacao.globo.com
 0.0.0.0 smonitor.com.br
 0.0.0.0 tag.hariken.co
@@ -83,14 +64,11 @@
 
 0.0.0.0 assets.cookieconsent.silktide.com
 0.0.0.0 cdn.cookielaw.org
-0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 clickio.mgr.consensu.org
 0.0.0.0 clickiocdn.com
 0.0.0.0 cnil.links-lab.fr
-0.0.0.0 consent.truste.com
 0.0.0.0 consent-pref.trustarc.com
 0.0.0.0 consent-or.trustarc.com
-0.0.0.0 consent.trustarc.com
 0.0.0.0 cookie-accept.com
 0.0.0.0 cookie-script.com
 0.0.0.0 cookie.gazeta.pl
@@ -98,10 +76,8 @@
 0.0.0.0 cookie.support
 0.0.0.0 cookie.wieni.be
 0.0.0.0 cookieassistant.com
-0.0.0.0 cookiebot.com
 0.0.0.0 cookiechoices.org
 0.0.0.0 cookieconsent.com
-0.0.0.0 cookieconsent.silktide.com
 0.0.0.0 cookieinformation.com
 0.0.0.0 cookielaw.org
 0.0.0.0 cookiemanager1.contentforces.com
@@ -127,29 +103,18 @@
 0.0.0.0 privacy.schibsted.com
 0.0.0.0 privacy.totaaltv.nl
 0.0.0.0 privacyportal.fatergroup.com
-0.0.0.0 rodo.agora.pl
 0.0.0.0 skryptcookies.pl
 0.0.0.0 smartcookies.it
 0.0.0.0 sp.knowyourmeme.com
-0.0.0.0 thenational-gb.thenational.scot
 0.0.0.0 thirdfloor.it
 0.0.0.0 trustarc.com
 0.0.0.0 usercentrics.eu
-0.0.0.0 www.onesignal.com
 0.0.0.0 zgody.infor.pl
-
-# Social Media Trackers
-
-0.0.0.0 experience.tinypass.com
-0.0.0.0 news.google.com
-0.0.0.0 syndication.twitter.com
 
 # Chatbots, Discussions, Share/Engagement Add-Ons
 
 0.0.0.0 addtocalendar.com
-0.0.0.0 static-cdn.spot.im
 0.0.0.0 api-iam.intercom.io
-0.0.0.0 art19.com
 0.0.0.0 b.suggestvideos.xyz
 0.0.0.0 disqus.com
 0.0.0.0 disqus.net
@@ -162,26 +127,20 @@
 0.0.0.0 launcher.spot.im
 0.0.0.0 nama.ai
 0.0.0.0 plataformasocial.com.br
-0.0.0.0 pzw.io
-0.0.0.0 recirculation.spot.im
 0.0.0.0 spot.im
 0.0.0.0 spotops.spot.im
 0.0.0.0 widget.intercom.io
 0.0.0.0 www.disqus.com
-0.0.0.0 www.disqus.net
 0.0.0.0 www.disquscdn.com
 0.0.0.0 zotabox.com
 
 # Fake Book/Music Downloads
 
 0.0.0.0 aahmedia.press
-0.0.0.0 best-online-books.com
 0.0.0.0 bestbooks.club
 0.0.0.0 bestsearchs.info
 0.0.0.0 bookprem.com
 0.0.0.0 books.bestsearchs.info
-0.0.0.0 cdn.bestbooks.club
-0.0.0.0 downloadpdfs.net
 0.0.0.0 e-bookdownload.net
 0.0.0.0 ebook4scaricare.com
 0.0.0.0 ebooks-books.com
@@ -190,33 +149,27 @@
 0.0.0.0 hdmusic.me
 0.0.0.0 hdtracks.com
 0.0.0.0 hdtracks.de
-0.0.0.0 mp3va.com
 0.0.0.0 providefreebookedition.com
 0.0.0.0 readdownloadebook.com
-0.0.0.0 www.downloadpdfs.net
 0.0.0.0 www.e-bookdownload.net
 0.0.0.0 www.ebooks-books.com
 0.0.0.0 www.freebooksget.com
 0.0.0.0 www.hdmusic.me
 0.0.0.0 www.hdtracks.com
-0.0.0.0 www.hdtracks.de
 0.0.0.0 www.mp3va.com
 0.0.0.0 www.providefreebookedition.com
 0.0.0.0 www.readdownloadebook.com
 0.0.0.0 awesome-community.eu
-0.0.0.0 www.awesome-community.eu
 0.0.0.0 www.43ft.com
 
 # General ad hosts
 
 0.0.0.0 0klxjejyxak3.com
-0.0.0.0 5min.com
 0.0.0.0 6bgaput9ullc.com
 0.0.0.0 acexedge.com
 0.0.0.0 adbrau.com
 0.0.0.0 admathhd.com
 0.0.0.0 adnxtr.com
-0.0.0.0 adservice.google.com.br
 0.0.0.0 adsrvs.com
 0.0.0.0 aggravedgaree.info
 0.0.0.0 ajtctiiiaz.com
@@ -226,27 +179,20 @@
 0.0.0.0 aribcosw.com
 0.0.0.0 assandart.site
 0.0.0.0 awuuf.com
-0.0.0.0 bat5.com
 0.0.0.0 bebreloomr.com
 0.0.0.0 bitlordapp.com
 0.0.0.0 byvue.com
 0.0.0.0 bzxmgyfae.com
 0.0.0.0 c.adsco.re
 0.0.0.0 c.greatvideos.xyz
-0.0.0.0 clb1.com
 0.0.0.0 clipcentric-a.akamaihd.net
 0.0.0.0 cmp.bilsyndication.com
 0.0.0.0 collectpush.com
-0.0.0.0 consent.cookiebot.com
-0.0.0.0 curse.com
 0.0.0.0 cursecdn.com
 0.0.0.0 cyneburg-yam.com
-0.0.0.0 d10lv7w3g0jvk9.cloudfront.net
 0.0.0.0 dadsokz.com
 0.0.0.0 dlp.imgsrc.ru
-0.0.0.0 dna.uol.com.br
 0.0.0.0 durokuro.com
-0.0.0.0 dynad.net
 0.0.0.0 f.viralvideos.pw
 0.0.0.0 fadsatz.com
 0.0.0.0 fagmomqua.site
@@ -254,7 +200,6 @@
 0.0.0.0 flx907.lporirxe.com
 0.0.0.0 freq.theoutline.com
 0.0.0.0 fuyuap.xyz
-0.0.0.0 g.nicevideos.xyz
 0.0.0.0 ie8eamus.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 internetads.xyz
@@ -262,7 +207,6 @@
 0.0.0.0 ladsdown.com
 0.0.0.0 ladsecz.com
 0.0.0.0 looble.net
-0.0.0.0 mackeeper.com
 0.0.0.0 mc.us20.list-manage.com
 0.0.0.0 mericasads.com
 0.0.0.0 mygoodlives.com
@@ -273,7 +217,6 @@
 0.0.0.0 onemboaran.com
 0.0.0.0 oppuz.com
 0.0.0.0 pjnjskdvmbnup.com
-0.0.0.0 pkthop.com
 0.0.0.0 pstatic.org
 0.0.0.0 puntoenun.site
 0.0.0.0 push.content-ad.network
@@ -286,13 +229,9 @@
 0.0.0.0 tag.vlitag.com
 0.0.0.0 tagsrvcs.com
 0.0.0.0 tr.clipcentric.com
-0.0.0.0 trklnks.com
 0.0.0.0 trrsf.com.br
 0.0.0.0 tworismo.com
 0.0.0.0 ulozto.sk
-0.0.0.0 urlcash.com
-0.0.0.0 v3.fstats.xyz
-0.0.0.0 vcmedia.vn
 0.0.0.0 velocitycdn.com
 0.0.0.0 www.ajtctiiiaz.com
 0.0.0.0 www.bonugmdpqyvjc.com
@@ -300,7 +239,6 @@
 0.0.0.0 www.csfkhqzegycmux.com
 0.0.0.0 www.jazdoxthxiv.com
 0.0.0.0 www.jyqqpjpbvya.com
-0.0.0.0 www.lordlucky.com
 0.0.0.0 www.mericasads.com
 0.0.0.0 www.pcmdnsrv.com
 0.0.0.0 www.pjnjskdvmbnup.com
@@ -312,9 +250,6 @@
 0.0.0.0 xqankuajhtdehe.com
 0.0.0.0 xyzzyxxx.xyz
 0.0.0.0 z.liketube.xyz
-
-# Phone-home
-
 0.0.0.0 nuedge.net
 0.0.0.0 soniccharge.com
 0.0.0.0 vox1b.nuedge.net
@@ -325,9 +260,6 @@
 # Typography?
 
 0.0.0.0 use.typekit.net
-
-# Telemetry
-
 0.0.0.0 118-163-160-187-HINET-IP.hinet.net
 0.0.0.0 128-70-85-141.broadband.corbina.ru
 0.0.0.0 177-185-42-72.gci.net
@@ -356,7 +288,6 @@
 0.0.0.0 a767.dscd.akamai.net
 0.0.0.0 a767.dspw65.akamai.net
 0.0.0.0 a978.i6g1.akamai.net
-0.0.0.0 ac3.msn.com
 0.0.0.0 activity.windows.com
 0.0.0.0 ads.avocet.io
 0.0.0.0 aka.ms
@@ -365,12 +296,9 @@
 0.0.0.0 amp-reddit-com.cdn.ampproject.org
 0.0.0.0 any.edge.bing.com
 0.0.0.0 apps.skype.com
-0.0.0.0 arc.msn.com-nsatc.net
 0.0.0.0 array615-prod-do.dsp.mp.microsoft.com
 0.0.0.0 asimov.settings.data.microsoft.com.akadns.net
 0.0.0.0 avatar-service-prod-b-eus2.cloudapp.net
-0.0.0.0 b-internet.176.49.84.166.nsk.rt.ru
-0.0.0.0 bing.com
 0.0.0.0 bl3301-a.1drv.com
 0.0.0.0 bl3301-c.1drv.com
 0.0.0.0 bl3301-g.1drv.com
@@ -382,7 +310,6 @@
 0.0.0.0 bn1306-e.1drv.com
 0.0.0.0 bn1306-g.1drv.com
 0.0.0.0 bn1wns2011508.wns.windows.com
-0.0.0.0 bn2.displaycatalog.md.mp.microsoft.com.akadns.net
 0.0.0.0 bn2.skype.msnmessenger.msn.com.akadns.net
 0.0.0.0 bn2b-cor001.api.p001.1drv.com
 0.0.0.0 bn2b-cor003.api.p001.1drv.com
@@ -391,16 +318,10 @@
 0.0.0.0 bn2wns1b.wns.windows.com
 0.0.0.0 bn3p-cor001.api.p001.1drv.com
 0.0.0.0 bn3sch020010536.wns.windows.com
-0.0.0.0 bn3sch020010626.wns.windows.com
 0.0.0.0 BN3SCH020011855.wns.windows.com
 0.0.0.0 BN3SCH020022331.wns.windows.com
 0.0.0.0 BN4SCH101121017.wns.windows.com
-0.0.0.0 BN4SCH101121022.wns.windows.com
-0.0.0.0 BN4SCH101121318.wns.windows.com
-0.0.0.0 BN4SCH101123006.wns.windows.com
 0.0.0.0 bnsch020022361.wns.windows.com
-0.0.0.0 by3301-a.1drv.com
-0.0.0.0 by3301-c.1drv.com
 0.0.0.0 by3301-e.1drv.com
 0.0.0.0 c-0001.c-msedge.net
 0.0.0.0 c-0001.dc-msedge.net
@@ -409,62 +330,34 @@
 0.0.0.0 c.go.mpulse.net.cdn.cloudflare.net
 0.0.0.0 c.msn.com.nsatc.net
 0.0.0.0 c220-239-44-24.eburwd6.vic.optusnet.com.au
-0.0.0.0 ca.telemetry.microsoft.com
 0.0.0.0 cache.datamart.windows.com
-0.0.0.0 cdn.globalsign.com
 0.0.0.0 ch1-cor001.api.p001.1drv.com
 0.0.0.0 ch1-cor002.api.p001.1drv.com
-0.0.0.0 ch3301-c.1drv.com
-0.0.0.0 ch3301-e.1drv.com
-0.0.0.0 ch3301-g.1drv.com
 0.0.0.0 ch3302-c.1drv.com
 0.0.0.0 ch3302-e.1drv.com
 0.0.0.0 choice.live.com
-0.0.0.0 choice.microsoft.com
-0.0.0.0 choice.microsoft.com.nsatc.net
-0.0.0.0 choice.microsoft.com.nstac.net
 0.0.0.0 client.wns.windows.com
 0.0.0.0 compatexchange.cloudapp.net
-0.0.0.0 compatexchange1.trafficmanager.net
 0.0.0.0 corp.sts.microsoft.com
 0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
 0.0.0.0 cp101-prod.do.dsp.mp.microsoft.com
 0.0.0.0 cpe-76-85-171-249.neb.res.rr.com
-0.0.0.0 crl.globalsign.net
 0.0.0.0 cs1.wpc.v0cdn.net
 0.0.0.0 cs10.wpc.v0cdn.net
 0.0.0.0 cs9.wac.phicdn.net
 0.0.0.0 cus-prod-msgsearch.cloudapp.net
-0.0.0.0 cy2.displaycatalog.md.mp.microsoft.com.akadns.net
 0.0.0.0 cy2.licensing.md.mp.microsoft.com.akadns.net
-0.0.0.0 cy2.settings.data.microsoft.com.akadns.net
 0.0.0.0 db3wns2011111.wns.windows.com
-0.0.0.0 db5.displaycatalog.md.mp.microsoft.com.akadns.net
 0.0.0.0 db5.md.mp.microsoft.com.akadns.net
-0.0.0.0 db5.settings.data.microsoft.com.akadns.net
-0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
 0.0.0.0 db5.wns.windows.com
 0.0.0.0 db5sch101100917.wns.windows.com
-0.0.0.0 db5sch101101511.wns.windows.com
-0.0.0.0 db5sch101101813.wns.windows.com
-0.0.0.0 db5sch101101914.wns.windows.com
-0.0.0.0 db5sch101101939.wns.windows.com
 0.0.0.0 db5sch101110626.wns.windows.com
-0.0.0.0 db5sch101110634.wns.windows.com
-0.0.0.0 db5sch101110821.wns.windows.com
-0.0.0.0 db5sch101110822.wns.windows.com
 0.0.0.0 db5sch103082111.wns.windows.com
-0.0.0.0 db5sch103082406.wns.windows.com
 0.0.0.0 db5sch103092209.wns.windows.com
 0.0.0.0 db5wns1d.wns.windows.com
 0.0.0.0 db6sch102091105.wns.windows.com
-0.0.0.0 db6sch102091412.wns.windows.com
-0.0.0.0 dc.services.visualstudio.com
-0.0.0.0 dev.virtualearth.net
-0.0.0.0 df.telemetry.microsoft.com
 0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 directory.services.live.com
-0.0.0.0 directory.services.live.com.akadns.net
 0.0.0.0 dm3p.wns.notify.windows.com.akadns.net
 0.0.0.0 dmd.metaservices.microsoft.com.akadns.net
 0.0.0.0 dns.msftncsi.com
@@ -472,7 +365,6 @@
 0.0.0.0 download-ssl.msgamestudios.com
 0.0.0.0 dsn10.skype-dsn.akadns.net
 0.0.0.0 e-0009.e-msedge.net#ALSO USED IN MS LIST
-0.0.0.0 e-0009.e-msedge.net#ALSOUSEDINMSOFFICE
 0.0.0.0 e12358.g.akamaiedge.net
 0.0.0.0 e13551.dscg.akamaiedge.net
 0.0.0.0 e1706.g.akamaiedge.net
@@ -491,12 +383,8 @@
 0.0.0.0 eu.vortex.data.microsoft.com
 0.0.0.0 eus1-authgw.cloudapp.net
 0.0.0.0 events-dc1.gfe.nvidia.com
-0.0.0.0 fe1.update.microsoft.com.akadns.net
-0.0.0.0 fe2.update.microsoft.com.akadns.net
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 feedback.windows.com
-0.0.0.0 fg.download.windowsupdate.com.c.footprint.net
-0.0.0.0 g.msn.com.nsatc.net
 0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gateway.skyprod.akadns.net
 0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
@@ -505,58 +393,34 @@
 0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
 0.0.0.0 gfe.nvidia.com
 0.0.0.0 gfswl.geforce.com
-0.0.0.0 go.microsoft.com
 0.0.0.0 gpla1.wac.v2cdn.net
 0.0.0.0 gprs-clients-85.26.155.145.misp.ru
 0.0.0.0 hostedocsp.globalsign.com
 0.0.0.0 i-sn2-cor001.api.p001.1drv.com
-0.0.0.0 i-sn2-cor002.api.p001.1drv.com
 0.0.0.0 i.s1.social.ms.akadns.net
-0.0.0.0 i1.services.social.microsoft.com
-0.0.0.0 i1.services.social.microsoft.com.nsatc.net
 0.0.0.0 ieonlinews.microsoft.com
 0.0.0.0 inference.location.live.net
-0.0.0.0 inference.location.livenet.akadns.net
 0.0.0.0 ip.wusmw1-client-s.msnmessenger.msn.com.akadns.net
 0.0.0.0 ipv4.login.msa.akadns6.net
 0.0.0.0 ipv6.msftncsi.com
-0.0.0.0 ipv6.msftncsi.com.edgesuite.net
-0.0.0.0 kv101-prod.do.dsp.mp.microsoft.com
 0.0.0.0 legacy-redirection-neurope-prod-hp.cloudapp.net
 0.0.0.0 licensing.md.mp.microsoft.com
 0.0.0.0 livegeteastus.cloudapp.net
 0.0.0.0 location-inference-westus.cloudapp.net
-0.0.0.0 login.live.com
-0.0.0.0 login.live.com.nsatc.net
 0.0.0.0 ls2web.redmond.corp.microsoft.com
 0.0.0.0 m.hotmail.com
 0.0.0.0 m221.absolute.com
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 mpd.mxptint.net
 0.0.0.0 mscrl.microsoft.com
-0.0.0.0 msedge.net
 0.0.0.0 msftncsi.com
 0.0.0.0 msnbot-191-232-139-155.search.msn.com
 0.0.0.0 msnbot-207-46-194-25.search.msn.com
-0.0.0.0 msnbot-207-46-194-33.search.msn.com
-0.0.0.0 msnbot-65-52-108-234.search.msn.com
 0.0.0.0 n175-36-11-221.mrk2.qld.optusnet.com.au
 0.0.0.0 ns1.msft.net
-0.0.0.0 ns2.msft.net
-0.0.0.0 ns3.msft.net
-0.0.0.0 ns4.msft.net
-0.0.0.0 ns5.msft.net
-0.0.0.0 ns6.msft.net
 0.0.0.0 nus1-api-skype.cloudapp.net
-0.0.0.0 nus1-authgw.cloudapp.net
-0.0.0.0 oca.telemetry.microsoft.com
-0.0.0.0 oca.telemetry.microsoft.com.nsatc.net
 0.0.0.0 ocsp.globalsign.cloud
 0.0.0.0 ocsp.usertrust.com
-0.0.0.0 onesettings-bn2.metron.live.com.nsatc.net
-0.0.0.0 onesettings-cy2.metron.live.com.nsatc.net
-0.0.0.0 onesettings-db5.metron.live.com.nsatc.net
-0.0.0.0 onesettings-hk2.metron.live.com.nsatc.net
 0.0.0.0 optionsservice-prod-southeastasia-a.cloudapp.net
 0.0.0.0 origin.windows.microsoft.com.akadns.net
 0.0.0.0 osiprod-scus-snow-000.cloudapp.net
@@ -571,68 +435,44 @@
 0.0.0.0 pricelist.skype.com
 0.0.0.0 prod-w.nexus.live.com.akadns.net
 0.0.0.0 prod.configsvc.live.com.akadns.net
-0.0.0.0 prod.configsvc1.live.com.akadns.net
 0.0.0.0 prod.nexusrules.live.com.akadns.net
-0.0.0.0 production.skype-registar.akadns.net
 0.0.0.0 redir.metaservices.microsoft.com
-0.0.0.0 redir.metaservices.microsoft.com.akadns.net
-0.0.0.0 redir.metaservices.microsoft.com.edgesuite.net
 0.0.0.0 redirection.prod.cms.msn.com
-0.0.0.0 redirection.prod.cms.msn.com.akadns.net
 0.0.0.0 register.mesh.com
 0.0.0.0 ris.api.iris.microsoft.com.akadns.net
 0.0.0.0 root.skype-edf.akadns.net
 0.0.0.0 root.skype.edf.akadns.net
-0.0.0.0 s-0001.s-msedge.net# ALSO USED IN MS OFFICE
-0.0.0.0 s-0001.s-msedge.net#ALSO USED IN SKYPE
+0.0.0.0 s-0001.s-msedge.net
+
+# ALSO USED IN MS OFFICE
+
 0.0.0.0 s.gateway.messenger.live.com
 0.0.0.0 sconsentit903.cloudapp.net
-0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 settings.data.glbdns2.microsoft.com
-0.0.0.0 settings.data.microsoft.com
 0.0.0.0 siweb.microsoft.akadns.net
 0.0.0.0 skyapi.live.net
 0.0.0.0 skyapi.skyprod.akadns.net
 0.0.0.0 skydrive.wns.windows.com
 0.0.0.0 skype-calling-missedcallsregistrar-prod-we.cloudapp.net
-0.0.0.0 sls.update.microsoft.com.akadns.net
 0.0.0.0 sm.mcafee.com
-0.0.0.0 sn3301-c.1drv.com
-0.0.0.0 sn3301-e.1drv.com
-0.0.0.0 sn3301-g.1drv.com
 0.0.0.0 softbank126066067187.bbtec.net
 0.0.0.0 solitaireprod.maelstrom.xboxlive.com
 0.0.0.0 spynet2.microsoft.akadns.net
-0.0.0.0 spynet2.microsoft.com
 0.0.0.0 spynetalt.microsoft.akadns.net
-0.0.0.0 spynetalt.microsoft.com
 0.0.0.0 spyneteurope.microsoft.akadns.net
 0.0.0.0 spynetus.microsoft.akadns.net
-0.0.0.0 sqm.df.telemetry.microsoft.com
-0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 sqmfe.glbdns2.microsoft.com
-0.0.0.0 ssw.live.com
-0.0.0.0 ssw.live.com.nsatc.net
 0.0.0.0 statsfe1.update.microsoft.com.akadns.net
 0.0.0.0 statsfe1.ws.microsoft.com
-0.0.0.0 statsfe2.update.microsoft.com.akadns.net
 0.0.0.0 storecatalogrevocation.storequality.microsoft.com
 0.0.0.0 storeedgefd.dsx.mp.microsoft.com
-0.0.0.0 su3.mcafee.com
-0.0.0.0 survey.watson.microsoft.com
 0.0.0.0 sway-cdn.com
 0.0.0.0 t.urs.microsoft.com.nsatc.net
 0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net
 0.0.0.0 t0.ssl.ak.tiles.virtualearth.net
-0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0 telemetry-dce.gfe.nvidia.com
-0.0.0.0 telemetry.appex.bing.net:443
-0.0.0.0 telemetry.appex.search.prod.ms.akadns.net
-0.0.0.0 telemetry.microsoft.com
-0.0.0.0 telemetry.nvidia.com
 0.0.0.0 telemetry.remoteapp.windowsazure.com
-0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 travel.tile.appex.bing.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 tsfe.tsws.mp.microsoft.com.nsatc.net
@@ -640,16 +480,11 @@
 0.0.0.0 ui.skype.akadns.net
 0.0.0.0 ui.skype.com
 0.0.0.0 updatekeepalive.mcafee.com
-0.0.0.0 urs.microsoft.com.nsatc.net
 0.0.0.0 us.configsvc1.live.com.akadns.net
 0.0.0.0 v10.vortex-win.data.metron.life.com.nsatc.net
-0.0.0.0 v10.vortex-win.data.metron.live.com.nsatc.net
 0.0.0.0 version.hybrid.api.here.com
 0.0.0.0 version.prd.us-east-1.ds.data.here.com
 0.0.0.0 vip5.afdorigin-prod-am02.afdogw.com
-0.0.0.0 vip5.afdorigin-prod-ch02.afdogw.com
-0.0.0.0 vip5.afdorigin-prod-ln02.afdogw.com
-0.0.0.0 vip5.afdorigin-prod-sg02.afdogw.com
 0.0.0.0 vip5.afdorogin-prod-hk02.afdogw.com
 0.0.0.0 vortex-bn2.metron.live.com.nsatc.net
 0.0.0.0 vortex-cy2.metron.live.com.nsatc.net
@@ -657,198 +492,11 @@
 0.0.0.0 vortex-hk2.metron.live.com.nsatc.net
 0.0.0.0 vortex-sandbox.data.microsoft.com
 0.0.0.0 vortex-win.data.metron.live.com.nsatc.net
-0.0.0.0 vortex-win.data.microsoft.com
-0.0.0.0 vortex.data.glbdns2.microsoft.com
-0.0.0.0 vortex.data.metron.live.com.nsatc.net
-0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vs.login.msa.akadns6.net
 0.0.0.0 vsgallery.com
-0.0.0.0 watson.live.com
-0.0.0.0 watson.microsoft.com
-0.0.0.0 watson.ppe.telemetry.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
-0.0.0.0 watson.telemetry.microsoft.com/Telemetry.Request
 0.0.0.0 wdcpus.microsoft.akadns.net
-0.0.0.0 wildcard.appex-rf.msn.com.edgesuite.net
 0.0.0.0 wildcard.twimg.com
 0.0.0.0 win10.ipv6.microsoft.com
-0.0.0.0 win10.ipv6.microsoft.com.nsatc.net
 0.0.0.0 wns.notify.windows.com.akadns.net
 0.0.0.0 wus-wsapi.cloudapp.net
 0.0.0.0 www.msedge.net
-0.0.0.0 www.msftncsi.com
-
-# Unverified
-
-# 0.0.0.0 addsearch.com
-# 0.0.0.0 adjust.com
-# 0.0.0.0 adobedtm.com
-# 0.0.0.0 answerdash.com
-# 0.0.0.0 antibodyresource.com
-# 0.0.0.0 applebarq.com
-# 0.0.0.0 arsdev.net
-# 0.0.0.0 autofixinfo.com
-# 0.0.0.0 backinstock.org
-# 0.0.0.0 beeketing.com
-# 0.0.0.0 biocatch.com
-# 0.0.0.0 blogflux.com
-# 0.0.0.0 bluecore.com
-# 0.0.0.0 bop.fm
-# 0.0.0.0 bunchball.net
-# 0.0.0.0 buscape.com
-# 0.0.0.0 buscape.com.br
-# 0.0.0.0 callpage.io
-# 0.0.0.0 caspion.com
-# 0.0.0.0 cdn-careers.sstatic.net
-# 0.0.0.0 clicktale.com
-# 0.0.0.0 clicktale.net
-# 0.0.0.0 comodo.com
-# 0.0.0.0 condenastdigital.com
-# 0.0.0.0 convertflow.com
-# 0.0.0.0 creativecommons.org
-# 0.0.0.0 crisp.chat
-# 0.0.0.0 crisp.im
-# 0.0.0.0 crossref.org
-# 0.0.0.0 datanyze.com
-# 0.0.0.0 datatables.net
-# 0.0.0.0 diffuser.fm
-# 0.0.0.0 digitalgov.gov
-# 0.0.0.0 editmysite.com
-# 0.0.0.0 embed.ly
-# 0.0.0.0 embedly.com
-# 0.0.0.0 feedburner.com
-# 0.0.0.0 filepicker.io
-# 0.0.0.0 footballfanatics.com
-# 0.0.0.0 foursixty.com
-# 0.0.0.0 foxsports.com
-# 0.0.0.0 fyre.co
-# 0.0.0.0 gethypervisual.com
-# 0.0.0.0 getkya.com
-# 0.0.0.0 getmoreproof.com
-# 0.0.0.0 getprivate.net
-# 0.0.0.0 getsentry.com
-# 0.0.0.0 gigya.com
-# 0.0.0.0 gmgp.org
-# 0.0.0.0 goodgamestudios.com
-# 0.0.0.0 goroost.com
-# 0.0.0.0 gourl.io
-# 0.0.0.0 gravatar.com
-# 0.0.0.0 guardianapps.co.uk
-# 0.0.0.0 hammerjs.github.io
-# 0.0.0.0 happyfoxchat.com
-# 0.0.0.0 hextom.com
-# 0.0.0.0 hs-scripts.com
-# 0.0.0.0 hscta.net
-# 0.0.0.0 hsforms.net
-# 0.0.0.0 hubspot.com
-# 0.0.0.0 hull.io
-# 0.0.0.0 hullapp.io
-# 0.0.0.0 hurrifyme.com
-# 0.0.0.0 indiedb.com
-# 0.0.0.0 intensedebate.com
-# 0.0.0.0 ivcbrasil.org.br
-# 0.0.0.0 jango.com
-# 0.0.0.0 jangonetwork.com
-# 0.0.0.0 jwpsrv.com
-# 0.0.0.0 kaltura.com
-# 0.0.0.0 kickstarter.com
-# 0.0.0.0 kitcode.net
-# 0.0.0.0 komentary.aol.com
-# 0.0.0.0 leanpub.com
-# 0.0.0.0 licensebuttons.net
-# 0.0.0.0 linkedin.com
-# 0.0.0.0 list-manage.com
-# 0.0.0.0 livechatinc.com
-# 0.0.0.0 livefyre.com
-# 0.0.0.0 livraria.folha.com.br
-# 0.0.0.0 loox.io
-# 0.0.0.0 madisonlogic.com
-# 0.0.0.0 mailchimp.com
-# 0.0.0.0 mailmunch.co
-# 0.0.0.0 maplink.com.br
-# 0.0.0.0 markerly.com
-# 0.0.0.0 marketo.net
-# 0.0.0.0 massrelevance.com
-# 0.0.0.0 maxymiser.net
-# 0.0.0.0 mediakit.com.br
-# 0.0.0.0 mercadoconfianca.com.br
-# 0.0.0.0 mobilenations.com
-# 0.0.0.0 moon-ray.com
-# 0.0.0.0 mparticle.com
-# 0.0.0.0 my.slate.com
-# 0.0.0.0 myip.ms
-# 0.0.0.0 netotiate.com
-# 0.0.0.0 newsvine.com
-# 0.0.0.0 nile.works
-# 0.0.0.0 nosto.com
-# 0.0.0.0 okasconcepts.com
-# 0.0.0.0 olark.com
-# 0.0.0.0 onename.com
-# 0.0.0.0 ontraport.com
-# 0.0.0.0 ophan.co.uk
-# 0.0.0.0 optin.to
-# 0.0.0.0 optnmnstr.com
-# 0.0.0.0 parleys.com
-# 0.0.0.0 pinterest.com
-# 0.0.0.0 pubnub.com
-# 0.0.0.0 pushcrew.com
-# 0.0.0.0 pushnews.eu
-# 0.0.0.0 rd.io
-# 0.0.0.0 rdio.com
-# 0.0.0.0 rdstation.com.br
-# 0.0.0.0 readspeaker.com
-# 0.0.0.0 realtime.co
-# 0.0.0.0 resultspage.com
-# 0.0.0.0 revtrax.com
-# 0.0.0.0 roost.me
-# 0.0.0.0 rpxnow.com
-# 0.0.0.0 scmplayer.net
-# 0.0.0.0 scroll.com
-# 0.0.0.0 segment.com
-# 0.0.0.0 segment.io
-# 0.0.0.0 sharethis.com
-# 0.0.0.0 shopgate.com
-# 0.0.0.0 shopmania.com
-# 0.0.0.0 shopperapproved.com
-# 0.0.0.0 signifyd.com
-# 0.0.0.0 siteblindado.com
-# 0.0.0.0 sloyalty.com
-# 0.0.0.0 slpht.com
-# 0.0.0.0 slpht.net
-# 0.0.0.0 snapapp.com
-# 0.0.0.0 socialphotosapp.com
-# 0.0.0.0 spotify.com
-# 0.0.0.0 stackcommerce.com
-# 0.0.0.0 stacksocial.com
-# 0.0.0.0 stickyaddtocartbar.azurewebsites.net
-# 0.0.0.0 talkable.com
-# 0.0.0.0 thedailymeal.com
-# 0.0.0.0 theplatform.com
-# 0.0.0.0 thunderclap.it
-# 0.0.0.0 tidio.co
-# 0.0.0.0 timeinc.net
-# 0.0.0.0 tiqcdn.com
-# 0.0.0.0 tolvnow.com
-# 0.0.0.0 tonefuse.com
-# 0.0.0.0 torchbrowser.com
-# 0.0.0.0 translate.google.com
-# 0.0.0.0 translate.googleapis.com
-# 0.0.0.0 trendmd.s3.amazonaws.com
-# 0.0.0.0 truste.com
-# 0.0.0.0 tryshoelace.com
-# 0.0.0.0 twitter.com
-# 0.0.0.0 typekit.net
-# 0.0.0.0 ultimedia.com
-# 0.0.0.0 usefomo.com
-# 0.0.0.0 usemessages.com
-# 0.0.0.0 viafoura.com
-# 0.0.0.0 viafoura.net
-# 0.0.0.0 vidible.tv
-# 0.0.0.0 vrum.com.br
-# 0.0.0.0 w.org
-# 0.0.0.0 websking.com
-# 0.0.0.0 weebly.com
-# 0.0.0.0 wpdigital.net
-# 0.0.0.0 yac.mx
-# 0.0.0.0 yardbarker.com
-# 0.0.0.0 zeobit.com
