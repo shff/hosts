@@ -6,6 +6,7 @@
 0.0.0.0 brightcove.net
 0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 cdn.roiq.ranker.com
+0.0.0.0 coefficientforeverhandshake.com
 0.0.0.0 collector.brandmetrics.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
@@ -13,23 +14,34 @@
 0.0.0.0 flattr.net
 0.0.0.0 interactive.guim.co.uk
 0.0.0.0 ipfind.co
+0.0.0.0 lightstep.medium.systems
+0.0.0.0 njs.services.livejournal.com
+0.0.0.0 notif.services.livejournal.com
+0.0.0.0 pianistrefutationgoose.com
 0.0.0.0 plus.ultimate-guitar.com
 0.0.0.0 profile.ultimate-guitar.com
 0.0.0.0 profusesupport.com
+0.0.0.0 rcmjs.rambler.ru
+0.0.0.0 s.hdnux.com
+0.0.0.0 sandbox.ssp.rambler.ru
+0.0.0.0 searsbushelbus.com
 0.0.0.0 services.fandom.com
+0.0.0.0 sf-hs-sg.ibytedtos.com
+0.0.0.0 sf16-scmcdn-sg.ibytedtos.com
 0.0.0.0 soggysponge.com
+0.0.0.0 sync.datamind.ru
+0.0.0.0 tag.agrvt.com
 0.0.0.0 track.ultimate-guitar.com
 0.0.0.0 tracking.musixmatch.com
+0.0.0.0 treg.hearstnp.com
+0.0.0.0 vp.rambler.ru
 0.0.0.0 www.brightcove.com
 0.0.0.0 www.brightcove.net
 0.0.0.0 www.flattr.com
 0.0.0.0 www.flattr.net
 0.0.0.0 www.ipify.org
 0.0.0.0 www.lightboxcdn.com
-0.0.0.0 s.hdnux.com
-0.0.0.0 treg.hearstnp.com
-0.0.0.0 lightstep.medium.systems
-0.0.0.0 tag.agrvt.com
+0.0.0.0 xc3.services.livejournal.com
 
 # Random shady stuff
 
