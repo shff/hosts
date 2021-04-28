@@ -63,6 +63,11 @@
 0.0.0.0 spottednoise.com
 0.0.0.0 api.searchiq.co
 
+# Autoplay Videos
+
+0.0.0.0 video.dailymail.co.uk
+0.0.0.0 videos.dailymail.co.uk
+
 # Brazilian Ads
 
 0.0.0.0 acesso.estadao.com.br
