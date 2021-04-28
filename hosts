@@ -1,7 +1,10 @@
 # Trackers
 
+0.0.0.0 api.deep.bi
 0.0.0.0 api.limbik.com
 0.0.0.0 api.polarbyte.com
+0.0.0.0 audima.co
+0.0.0.0 b.t.tailtarget.com
 0.0.0.0 brightcove.com
 0.0.0.0 brightcove.net
 0.0.0.0 cdn.brandmetrics.com
@@ -12,6 +15,7 @@
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
 0.0.0.0 flattr.com
 0.0.0.0 flattr.net
+0.0.0.0 hulkprod.anm.co.uk
 0.0.0.0 interactive.guim.co.uk
 0.0.0.0 ipfind.co
 0.0.0.0 lightstep.medium.systems
