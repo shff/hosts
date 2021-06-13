@@ -102,6 +102,13 @@
 0.0.0.0 www.flattr.com
 0.0.0.0 www.flattr.net
 
+# Tawk.to - Annoying widget
+
+0.0.0.0 static-v.tawk.to
+0.0.0.0 vsb100.tawk.to
+0.0.0.0 embed.tawk.to
+0.0.0.0 va.tawk.to
+
 # Trackers
 
 0.0.0.0 api.deep.bi
@@ -114,6 +121,7 @@
 0.0.0.0 collector.brandmetrics.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
+0.0.0.0 glassmilheart.com
 0.0.0.0 hulkprod.anm.co.uk
 0.0.0.0 interactive.guim.co.uk
 0.0.0.0 ipfind.co
