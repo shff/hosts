@@ -104,6 +104,14 @@
 
 0.0.0.0 ivccf.ivcbrasil.org.br
 
+# Navegg - Brazilian segmentation tracking
+
+0.0.0.0 cdn.navdmp.com
+
+# Snowplow Analytics
+
+0.0.0.0 gadasource.storage.googleapis.com
+
 # GDPR Consent Popups
 
 0.0.0.0 assets.cookieconsent.silktide.com
