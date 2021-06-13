@@ -1,29 +1,124 @@
+# Autoplay Videos - dailymail.co.uk
+
+0.0.0.0 video.dailymail.co.uk
+0.0.0.0 videos.dailymail.co.uk
+
+# Autoplay Videos - Brightcove
+
+0.0.0.0 brightcove.com
+0.0.0.0 brightcove.net
+0.0.0.0 www.brightcove.com
+0.0.0.0 www.brightcove.net
+
+# Comment Sections - g1.globo.com
+
+0.0.0.0 comentarios.globo.com
+0.0.0.0 interatividade.globo.com
+
+# Comment Sections - folha.com.br
+
+0.0.0.0 comentarios.uol.com.br
+
+# Brazilian Ads - estadao.com.br
+
+0.0.0.0 acesso.estadao.com.br
+0.0.0.0 assine.estadao.com.br
+
+# Brazilian Ads - www.cartacapital.com.br
+
+0.0.0.0 assinecarta.com.br
+0.0.0.0 assineglobo.com.br
+
+# Brazilian Ads - folha.com.br
+
+0.0.0.0 paywall.folha.uol.com.br
+
+# Brazilian ads - g1.globo.com
+
+0.0.0.0 cocoon.globo.com
+0.0.0.0 horizon.globo.com
+0.0.0.0 vitrines.globo.com
+0.0.0.0 vitrines.in
+0.0.0.0 vitrinesglobo.com.br
+
+# Brazilian ads and trackers - Mercadolivre.com.br
+
+0.0.0.0 dejavu.mercadolivre.com.br
+0.0.0.0 dejavu.mlapps.com
+0.0.0.0 analytics.mercadolivre.com.br
+
+# Brazilian newspaper auditing tracker - folha.com.br
+
+0.0.0.0 ivccf.ivcbrasil.org.br
+
+# Navegg - Brazilian segmentation tracking - folha.com.br
+
+0.0.0.0 cdn.navdmp.com
+
+# Snowplow Analytics - folha.com.br
+
+0.0.0.0 gadasource.storage.googleapis.com
+
+# Tailtarget - folha.com.br
+
+0.0.0.0 tt-12340-4.seg.t.tailtarget.com
+0.0.0.0 b.t.tailtarget.com
+
+# Trackers - folha.com.br
+
+0.0.0.0 clicklogger.rm.uol.com.br
+0.0.0.0 geoip.home.uol.com
+0.0.0.0 geoip.home.uol.com.br
+
+# Trackers - g1.globo.com
+
+0.0.0.0 analysis.infoglobo.com.br
+0.0.0.0 recomendacao.globo.com
+
+# Trackers - ultimate-guitar.com
+
+0.0.0.0 plus.ultimate-guitar.com
+0.0.0.0 profile.ultimate-guitar.com
+0.0.0.0 track.ultimate-guitar.com
+
+# Trackers - livejournal.com
+
+0.0.0.0 njs.services.livejournal.com
+0.0.0.0 notif.services.livejournal.com
+0.0.0.0 xc3.services.livejournal.com
+
+# Brazilian Trackers
+
+0.0.0.0 cofry.com.br
+0.0.0.0 smonitor.com.br
+0.0.0.0 tag.hariken.co
+0.0.0.0 v2.denakop.com
+0.0.0.0 www.dataunion.com.br
+
+# Flattr - 3rd party widget
+
+0.0.0.0 flattr.com
+0.0.0.0 flattr.net
+0.0.0.0 www.flattr.com
+0.0.0.0 www.flattr.net
+
 # Trackers
 
 0.0.0.0 api.deep.bi
 0.0.0.0 api.limbik.com
 0.0.0.0 api.polarbyte.com
 0.0.0.0 audima.co
-0.0.0.0 b.t.tailtarget.com
-0.0.0.0 brightcove.com
-0.0.0.0 brightcove.net
 0.0.0.0 cdn.brandmetrics.com
 0.0.0.0 cdn.roiq.ranker.com
 0.0.0.0 coefficientforeverhandshake.com
 0.0.0.0 collector.brandmetrics.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
-0.0.0.0 flattr.com
-0.0.0.0 flattr.net
 0.0.0.0 hulkprod.anm.co.uk
 0.0.0.0 interactive.guim.co.uk
 0.0.0.0 ipfind.co
 0.0.0.0 lightstep.medium.systems
-0.0.0.0 njs.services.livejournal.com
-0.0.0.0 notif.services.livejournal.com
 0.0.0.0 pianistrefutationgoose.com
-0.0.0.0 plus.ultimate-guitar.com
-0.0.0.0 profile.ultimate-guitar.com
 0.0.0.0 profusesupport.com
 0.0.0.0 rcmjs.rambler.ru
 0.0.0.0 s.hdnux.com
@@ -35,17 +130,11 @@
 0.0.0.0 soggysponge.com
 0.0.0.0 sync.datamind.ru
 0.0.0.0 tag.agrvt.com
-0.0.0.0 track.ultimate-guitar.com
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 treg.hearstnp.com
 0.0.0.0 vp.rambler.ru
-0.0.0.0 www.brightcove.com
-0.0.0.0 www.brightcove.net
-0.0.0.0 www.flattr.com
-0.0.0.0 www.flattr.net
 0.0.0.0 www.ipify.org
 0.0.0.0 www.lightboxcdn.com
-0.0.0.0 xc3.services.livejournal.com
 
 # Random shady stuff
 
@@ -62,59 +151,6 @@
 0.0.0.0 live.soapps.net
 0.0.0.0 spottednoise.com
 0.0.0.0 api.searchiq.co
-
-# Autoplay Videos
-
-0.0.0.0 video.dailymail.co.uk
-0.0.0.0 videos.dailymail.co.uk
-
-# Brazilian Ads
-
-0.0.0.0 acesso.estadao.com.br
-0.0.0.0 assine.estadao.com.br
-0.0.0.0 assinecarta.com.br
-0.0.0.0 assineglobo.com.br
-0.0.0.0 cocoon.globo.com
-0.0.0.0 comentarios.globo.com
-0.0.0.0 comentarios.uol.com.br
-0.0.0.0 dejavu.mercadolivre.com.br
-0.0.0.0 dejavu.mlapps.com
-0.0.0.0 horizon.globo.com
-0.0.0.0 interatividade.globo.com
-0.0.0.0 paywall.folha.uol.com.br
-0.0.0.0 vitrines.globo.com
-0.0.0.0 vitrines.in
-0.0.0.0 vitrinesglobo.com.br
-
-# Brazilian Trackers
-
-0.0.0.0 analysis.infoglobo.com.br
-0.0.0.0 analytics.mercadolivre.com.br
-0.0.0.0 clicklogger.rm.uol.com.br
-0.0.0.0 cofry.com.br
-0.0.0.0 geoip.home.uol.com
-0.0.0.0 geoip.home.uol.com.br
-0.0.0.0 recomendacao.globo.com
-0.0.0.0 smonitor.com.br
-0.0.0.0 tag.hariken.co
-0.0.0.0 v2.denakop.com
-0.0.0.0 www.dataunion.com.br
-
-# Brazilian newspaper auditing tracker - folha.com.br
-
-0.0.0.0 ivccf.ivcbrasil.org.br
-
-# Navegg - Brazilian segmentation tracking - folha.com.br
-
-0.0.0.0 cdn.navdmp.com
-
-# Snowplow Analytics - folha.com.br
-
-0.0.0.0 gadasource.storage.googleapis.com
-
-# Tailtarget - folha.com.br
-
-tt-12340-4.seg.t.tailtarget.com
 
 # GDPR Consent Popups
 
