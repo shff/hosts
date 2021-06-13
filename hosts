@@ -100,17 +100,21 @@
 0.0.0.0 v2.denakop.com
 0.0.0.0 www.dataunion.com.br
 
-# Brazilian newspaper auditing tracker
+# Brazilian newspaper auditing tracker - folha.com.br
 
 0.0.0.0 ivccf.ivcbrasil.org.br
 
-# Navegg - Brazilian segmentation tracking
+# Navegg - Brazilian segmentation tracking - folha.com.br
 
 0.0.0.0 cdn.navdmp.com
 
-# Snowplow Analytics
+# Snowplow Analytics - folha.com.br
 
 0.0.0.0 gadasource.storage.googleapis.com
+
+# Tailtarget - folha.com.br
+
+tt-12340-4.seg.t.tailtarget.com
 
 # GDPR Consent Popups
 
