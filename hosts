@@ -1,7 +1,6 @@
-# Autoplay Videos - dailymail.co.uk
-
-0.0.0.0 video.dailymail.co.uk
-0.0.0.0 videos.dailymail.co.uk
+##
+## AUTOPLAY VIDEOS
+##
 
 # Autoplay Videos - Brightcove
 
@@ -9,6 +8,10 @@
 0.0.0.0 brightcove.net
 0.0.0.0 www.brightcove.com
 0.0.0.0 www.brightcove.net
+
+##
+## COMMENT SECTIONS
+##
 
 # Comment Sections - g1.globo.com
 
@@ -18,6 +21,27 @@
 # Comment Sections - folha.com.br
 
 0.0.0.0 comentarios.uol.com.br
+
+# Disqus
+
+0.0.0.0 disqus.com
+0.0.0.0 disqus.net
+0.0.0.0 disquscdn.com
+0.0.0.0 disqusservice.com
+0.0.0.0 www.disqus.com
+0.0.0.0 www.disqus.net
+0.0.0.0 www.disquscdn.com
+0.0.0.0 quanta-mag.disqus.com
+
+# Tawk
+
+0.0.0.0 static-v.tawk.to
+0.0.0.0 vsb100.tawk.to
+0.0.0.0 embed.tawk.to
+
+##
+## ADS
+##
 
 # Brazilian Ads - estadao.com.br
 
@@ -40,6 +64,10 @@
 0.0.0.0 vitrines.globo.com
 0.0.0.0 vitrines.in
 0.0.0.0 vitrinesglobo.com.br
+
+##
+## TRACKERS
+##
 
 # Brazilian ads and trackers - Mercadolivre.com.br
 
@@ -87,6 +115,12 @@
 0.0.0.0 notif.services.livejournal.com
 0.0.0.0 xc3.services.livejournal.com
 
+# Trackers - Dito CRM - Lead collection
+
+0.0.0.0 plataformasocial.com.br
+0.0.0.0 dito.com.br
+0.0.0.0 www.dito.com.br
+
 # Brazilian Trackers
 
 0.0.0.0 cofry.com.br
@@ -94,6 +128,18 @@
 0.0.0.0 tag.hariken.co
 0.0.0.0 v2.denakop.com
 0.0.0.0 www.dataunion.com.br
+
+# Pingdom - Analytics
+
+0.0.0.0 rum-static.pingdom.net
+
+##
+## THIRD PARTY WIDGETS
+##
+
+# CrazyEgg - Lead Generation Widgets
+
+0.0.0.0 script.crazyegg.com
 
 # Flattr - 3rd party widget
 
@@ -108,6 +154,113 @@
 0.0.0.0 vsb100.tawk.to
 0.0.0.0 embed.tawk.to
 0.0.0.0 va.tawk.to
+
+# Pushcrew - Asks to sent notifications with dark pattern
+
+0.0.0.0 cdn.pushcrew.com
+0.0.0.0 pushcrew.com
+
+# Intercom
+
+0.0.0.0 intercom.io
+0.0.0.0 js.intercomcdn.com
+0.0.0.0 api-iam.intercom.io
+0.0.0.0 widget.intercom.io
+
+# Spot.im
+
+0.0.0.0 static-cdn.spot.im
+0.0.0.0 launcher.spot.im
+0.0.0.0 recirculation.spot.im
+0.0.0.0 spot.im
+0.0.0.0 spotops.spot.im
+
+# Add to Calendar
+
+# 0.0.0.0 addtocalendar.com
+
+# Chatbots, Discussions, Share/Engagement Add-Ons
+
+0.0.0.0 art19.com
+0.0.0.0 b.suggestvideos.xyz
+0.0.0.0 huggy.io
+0.0.0.0 nama.ai
+0.0.0.0 pzw.io
+0.0.0.0 zotabox.com
+
+##
+## GDPR POPUPS
+##
+
+# TrustArc
+
+0.0.0.0 consent-pref.trustarc.com
+0.0.0.0 consent-or.trustarc.com
+0.0.0.0 consent.trustarc.com
+0.0.0.0 trustarc.com
+
+# Consensu
+
+0.0.0.0 cdn.cookielaw.org
+0.0.0.0 cookielaw.org
+0.0.0.0 clickio.mgr.consensu.org
+0.0.0.0 onetag.mgr.consensu.org
+
+# GDPR Consent Popups
+
+0.0.0.0 assets.cookieconsent.silktide.com
+0.0.0.0 cdn.privacy-mgmt.com
+0.0.0.0 clickiocdn.com
+0.0.0.0 cnil.links-lab.fr
+0.0.0.0 consent.truste.com
+0.0.0.0 cookie-accept.com
+0.0.0.0 cookie-script.com
+0.0.0.0 cookie.gazeta.pl
+0.0.0.0 cookie.oup.com
+0.0.0.0 cookie.support
+0.0.0.0 cookie.wieni.be
+0.0.0.0 cookieassistant.com
+0.0.0.0 cookiebot.com
+0.0.0.0 cookiechoices.org
+0.0.0.0 cookieconsent.com
+0.0.0.0 cookieconsent.silktide.com
+0.0.0.0 cookieinformation.com
+0.0.0.0 cookiemanager1.contentforces.com
+0.0.0.0 cookieq.com
+0.0.0.0 cookiereports.com
+0.0.0.0 cookies.fakt.pl
+0.0.0.0 cookies.forbes.pl
+0.0.0.0 cookies.innershed.co.uk
+0.0.0.0 cookies.leadplace.fr
+0.0.0.0 cookies.nos.nl
+0.0.0.0 cookies.unidadeditorial.es
+0.0.0.0 cookiescript.info
+0.0.0.0 dam.bbcchannels.com
+0.0.0.0 dmgmediaprivacy.co.uk
+0.0.0.0 gdpr.internetbrands.com
+0.0.0.0 gdpr.prisa.com
+0.0.0.0 iubenda.com
+0.0.0.0 mycookies.it
+0.0.0.0 policies.warnerbros.com
+0.0.0.0 privacy-center.org
+0.0.0.0 privacy.purch.com
+0.0.0.0 privacy.schibsted.com
+0.0.0.0 privacy.totaaltv.nl
+0.0.0.0 privacyportal.fatergroup.com
+0.0.0.0 rodo.agora.pl
+0.0.0.0 skryptcookies.pl
+0.0.0.0 smartcookies.it
+0.0.0.0 sp.knowyourmeme.com
+0.0.0.0 thenational-gb.thenational.scot
+0.0.0.0 thirdfloor.it
+0.0.0.0 usercentrics.eu
+0.0.0.0 zgody.infor.pl
+
+# 0.0.0.0 www.onesignal.com
+
+##
+## RANDOM
+##
 
 # Trackers
 
@@ -160,101 +313,11 @@
 0.0.0.0 spottednoise.com
 0.0.0.0 api.searchiq.co
 
-# GDPR Consent Popups
-
-0.0.0.0 assets.cookieconsent.silktide.com
-0.0.0.0 cdn.cookielaw.org
-0.0.0.0 cdn.privacy-mgmt.com
-0.0.0.0 clickio.mgr.consensu.org
-0.0.0.0 clickiocdn.com
-0.0.0.0 cnil.links-lab.fr
-0.0.0.0 consent.truste.com
-0.0.0.0 consent-pref.trustarc.com
-0.0.0.0 consent-or.trustarc.com
-0.0.0.0 consent.trustarc.com
-0.0.0.0 cookie-accept.com
-0.0.0.0 cookie-script.com
-0.0.0.0 cookie.gazeta.pl
-0.0.0.0 cookie.oup.com
-0.0.0.0 cookie.support
-0.0.0.0 cookie.wieni.be
-0.0.0.0 cookieassistant.com
-0.0.0.0 cookiebot.com
-0.0.0.0 cookiechoices.org
-0.0.0.0 cookieconsent.com
-0.0.0.0 cookieconsent.silktide.com
-0.0.0.0 cookieinformation.com
-0.0.0.0 cookielaw.org
-0.0.0.0 cookiemanager1.contentforces.com
-0.0.0.0 cookieq.com
-0.0.0.0 cookiereports.com
-0.0.0.0 cookies.fakt.pl
-0.0.0.0 cookies.forbes.pl
-0.0.0.0 cookies.innershed.co.uk
-0.0.0.0 cookies.leadplace.fr
-0.0.0.0 cookies.nos.nl
-0.0.0.0 cookies.unidadeditorial.es
-0.0.0.0 cookiescript.info
-0.0.0.0 dam.bbcchannels.com
-0.0.0.0 dmgmediaprivacy.co.uk
-0.0.0.0 gdpr.internetbrands.com
-0.0.0.0 gdpr.prisa.com
-0.0.0.0 iubenda.com
-0.0.0.0 mycookies.it
-0.0.0.0 onetag.mgr.consensu.org
-0.0.0.0 policies.warnerbros.com
-0.0.0.0 privacy-center.org
-0.0.0.0 privacy.purch.com
-0.0.0.0 privacy.schibsted.com
-0.0.0.0 privacy.totaaltv.nl
-0.0.0.0 privacyportal.fatergroup.com
-0.0.0.0 rodo.agora.pl
-0.0.0.0 skryptcookies.pl
-0.0.0.0 smartcookies.it
-0.0.0.0 sp.knowyourmeme.com
-0.0.0.0 thenational-gb.thenational.scot
-0.0.0.0 thirdfloor.it
-0.0.0.0 trustarc.com
-0.0.0.0 usercentrics.eu
-0.0.0.0 www.onesignal.com
-0.0.0.0 zgody.infor.pl
-
 # Social Media Trackers
 
 0.0.0.0 experience.tinypass.com
 0.0.0.0 news.google.com
 0.0.0.0 syndication.twitter.com
-
-# Chatbots, Discussions, Share/Engagement Add-Ons
-
-0.0.0.0 addtocalendar.com
-0.0.0.0 static-cdn.spot.im
-0.0.0.0 api-iam.intercom.io
-0.0.0.0 art19.com
-0.0.0.0 b.suggestvideos.xyz
-0.0.0.0 disqus.com
-0.0.0.0 disqus.net
-0.0.0.0 disquscdn.com
-0.0.0.0 disqusservice.com
-0.0.0.0 quanta-mag.disqus.com
-0.0.0.0 huggy.io
-0.0.0.0 intercom.io
-0.0.0.0 js.intercomcdn.com
-0.0.0.0 launcher.spot.im
-0.0.0.0 nama.ai
-0.0.0.0 plataformasocial.com.br
-0.0.0.0 pzw.io
-0.0.0.0 recirculation.spot.im
-0.0.0.0 spot.im
-0.0.0.0 spotops.spot.im
-0.0.0.0 static-v.tawk.to
-0.0.0.0 vsb100.tawk.to
-0.0.0.0 embed.tawk.to
-0.0.0.0 widget.intercom.io
-0.0.0.0 www.disqus.com
-0.0.0.0 www.disqus.net
-0.0.0.0 www.disquscdn.com
-0.0.0.0 zotabox.com
 
 # Fake Book/Music Downloads
 
