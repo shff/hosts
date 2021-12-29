@@ -124,6 +124,10 @@
 
 0.0.0.0 rum-static.pingdom.net
 
+# New Relic
+
+0.0.0.0 bam-cell.nr-data.net
+
 # Brazilian Trackers
 
 0.0.0.0 cofry.com.br
