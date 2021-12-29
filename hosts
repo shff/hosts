@@ -127,6 +127,35 @@
 # New Relic
 
 0.0.0.0 bam-cell.nr-data.net
+0.0.0.0 collector-1.newrelic.com
+0.0.0.0 collector-2.newrelic.com
+0.0.0.0 collector-3.newrelic.com
+0.0.0.0 collector-4.newrelic.com
+0.0.0.0 collector-5.newrelic.com
+0.0.0.0 collector-6.newrelic.com
+0.0.0.0 collector-7.newrelic.com
+0.0.0.0 collector-8.newrelic.com
+0.0.0.0 collector-9.newrelic.com
+0.0.0.0 collector-155.newrelic.com
+0.0.0.0 collector-156.newrelic.com
+0.0.0.0 collector-159.newrelic.com
+0.0.0.0 collector-160.newrelic.com
+0.0.0.0 collector-165.newrelic.com
+0.0.0.0 collector-166.newrelic.com
+0.0.0.0 collector-167.newrelic.com
+0.0.0.0 collector-168.newrelic.com
+0.0.0.0 collector-169.newrelic.com
+0.0.0.0 collector-170.newrelic.com
+0.0.0.0 collector-171.newrelic.com
+0.0.0.0 collector-172.newrelic.com
+0.0.0.0 collector-173.newrelic.com
+0.0.0.0 collector-174.newrelic.com
+0.0.0.0 collector-175.newrelic.com
+
+# Clicktrue fake domain - from GYG
+
+0.0.0.0 aqua.venusrevival.com
+0.0.0.0 v40.venusrevival.com
 
 # MailerLite - from osxdaily.com
 
