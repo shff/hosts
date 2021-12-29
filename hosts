@@ -33,12 +33,6 @@
 0.0.0.0 www.disquscdn.com
 0.0.0.0 quanta-mag.disqus.com
 
-# Tawk
-
-0.0.0.0 static-v.tawk.to
-0.0.0.0 vsb100.tawk.to
-0.0.0.0 embed.tawk.to
-
 ##
 ## ADS
 ##
@@ -126,6 +120,10 @@
 0.0.0.0 dito.com.br
 0.0.0.0 www.dito.com.br
 
+# Pingdom - Analytics
+
+0.0.0.0 rum-static.pingdom.net
+
 # Brazilian Trackers
 
 0.0.0.0 cofry.com.br
@@ -133,10 +131,6 @@
 0.0.0.0 tag.hariken.co
 0.0.0.0 v2.denakop.com
 0.0.0.0 www.dataunion.com.br
-
-# Pingdom - Analytics
-
-0.0.0.0 rum-static.pingdom.net
 
 ##
 ## THIRD PARTY WIDGETS
@@ -146,13 +140,6 @@
 
 0.0.0.0 script.crazyegg.com
 
-# Flattr - 3rd party widget
-
-0.0.0.0 flattr.com
-0.0.0.0 flattr.net
-0.0.0.0 www.flattr.com
-0.0.0.0 www.flattr.net
-
 # Tawk.to - Annoying widget
 
 0.0.0.0 static-v.tawk.to
@@ -160,12 +147,19 @@
 0.0.0.0 embed.tawk.to
 0.0.0.0 va.tawk.to
 
+# Flattr - 3rd party donation widget
+
+0.0.0.0 flattr.com
+0.0.0.0 flattr.net
+0.0.0.0 www.flattr.com
+0.0.0.0 www.flattr.net
+
 # Pushcrew - Asks to sent notifications with dark pattern
 
 0.0.0.0 cdn.pushcrew.com
 0.0.0.0 pushcrew.com
 
-# Intercom
+# Intercom - Chat Widget
 
 0.0.0.0 intercom.io
 0.0.0.0 js.intercomcdn.com
@@ -183,6 +177,11 @@
 # Add to Calendar
 
 # 0.0.0.0 addtocalendar.com
+
+# Juicer - Social Media Widget
+
+0.0.0.0 assets.juicer.io
+0.0.0.0 juicer.io
 
 # Chatbots, Discussions, Share/Engagement Add-Ons
 
@@ -211,7 +210,7 @@
 0.0.0.0 clickio.mgr.consensu.org
 0.0.0.0 onetag.mgr.consensu.org
 
-# GDPR Consent Popups
+# Misc GDPR Consent Popups
 
 0.0.0.0 assets.cookieconsent.silktide.com
 0.0.0.0 cdn.privacy-mgmt.com
@@ -317,10 +316,10 @@
 0.0.0.0 live.soapps.net
 0.0.0.0 spottednoise.com
 0.0.0.0 api.searchiq.co
-
-# Social Media Trackers
-
 0.0.0.0 experience.tinypass.com
+
+# Syndication Trackers
+
 0.0.0.0 news.google.com
 0.0.0.0 syndication.twitter.com
 
