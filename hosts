@@ -162,6 +162,10 @@
 0.0.0.0 track.mailerlite.com
 0.0.0.0 static.mailerlite.com
 
+# Piano - Brazilian Tracker
+
+0.0.0.0 api-esp.piano.io
+
 # Brazilian Trackers
 
 0.0.0.0 cofry.com.br
@@ -221,6 +225,10 @@
 0.0.0.0 assets.juicer.io
 0.0.0.0 juicer.io
 
+# Pocket - Mozilla Widget
+
+0.0.0.0 widgets.getpocket.com
+
 # Chatbots, Discussions, Share/Engagement Add-Ons
 
 0.0.0.0 art19.com
@@ -247,6 +255,12 @@
 0.0.0.0 cookielaw.org
 0.0.0.0 clickio.mgr.consensu.org
 0.0.0.0 onetag.mgr.consensu.org
+
+# AdOpt - Brazilian GDPR/LGPD Banner
+
+0.0.0.0 tag.goadopt.io
+0.0.0.0 cdn.goadopt.io
+0.0.0.0 auth.goadopt.io
 
 # Misc GDPR Consent Popups
 
