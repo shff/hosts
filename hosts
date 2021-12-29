@@ -128,6 +128,11 @@
 
 0.0.0.0 bam-cell.nr-data.net
 
+# MailerLite - from osxdaily.com
+
+0.0.0.0 track.mailerlite.com
+0.0.0.0 static.mailerlite.com
+
 # Brazilian Trackers
 
 0.0.0.0 cofry.com.br
