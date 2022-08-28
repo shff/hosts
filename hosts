@@ -1,18 +1,4 @@
 ##
-## TIME SINKS
-##
-
-# Twitch
-
-0.0.0.0 twitch.tv
-0.0.0.0 www.twitch.tv
-
-# The Gear Page
-
-0.0.0.0 thegearpage.net
-0.0.0.0 www.thegearpage.net
-
-##
 ## AUTOPLAY VIDEOS
 ##
 
